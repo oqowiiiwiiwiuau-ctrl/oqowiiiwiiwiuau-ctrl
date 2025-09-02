@@ -37,4 +37,4 @@ Haz clic en el siguiente enlace para explorar la aplicación en Netlify:
 
 [Ver MiAgenda en Netlify](https://miagenda-app.netlify.app)
 
-[Links](https://cronometrojuego.netlify.app))
+[Ver mi proyecto Cronometro](https://cronometrojuego.netlify.app)
