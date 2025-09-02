@@ -21,10 +21,7 @@ src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&st
 
 <a href="https://github.com/oqowiiiwiiwiuau-ctrl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oqowiiiwiiwiuau-ctrl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-# Mi Portafolio: Del Aprendizaje a la Creación
+###Mi Portafolio: Del Aprendizaje a la Creación
 
 Estos proyectos son la materialización de los conocimientos que he adquirido a través de dos recursos fundamentales en mi viaje como desarrollador web:
 
@@ -37,12 +34,11 @@ A continuación, una lista de mis proyectos ordenados cronológicamente, refleja
 
 ### Proyectos
 
-* **Juego de Cronómetro** (Primer proyecto de práctica)
-    * **Descripción**: Un simple cronómetro interactivo. Fue mi primer proyecto con JavaScript, centrado en la manipulación del DOM y la lógica de temporización, habilidades clave aprendidas en **JavaScript from Beginner to Professional**.
+* **Juego de Cronómetro** 
+    * **Descripción**: Un simple cronómetro interactivo. Centrado en la manipulación del DOM y la lógica de temporización, habilidades clave aprendidas en **JavaScript from Beginner to Professional**.
     * [Ver demo en vivo](https://cronometrojuego.netlify.app)
-    * [Ver código fuente](https://github.com/tu-usuario/cronometro)
 
-* **Mi Agenda** (Último proyecto)
+* **Mi Agenda**
     * **Descripción**: Una aplicación web para gestionar actividades, horarios y advertencias. Este proyecto integra conceptos más avanzados como la organización de datos y la creación de una interfaz dinámica, aplicando la teoría de manipulación del DOM y diseño con **CSS Grid** explorados en ambos libros.
-    * [Ver demo en vivo](https://miagenda-app.netlify.app)
-    * [Ver código fuente](https://github.com/tu-usuario/mi-agenda)
+    * [Ver demo en vivo](https://miagendaya.netlify.app/)
+
