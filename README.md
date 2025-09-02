@@ -36,9 +36,9 @@ A continuación, una lista de mis proyectos ordenados cronológicamente, refleja
 
 * **Juego de Cronómetro** 
     * **Descripción**: Un simple cronómetro interactivo. Centrado en la manipulación del DOM y la lógica de temporización, habilidades clave aprendidas en **JavaScript from Beginner to Professional**.
-    * [Ver demo en vivo](https://cronometrojuego.netlify.app)
+    * [Ver la aplicación](https://cronometrojuego.netlify.app)
 
 * **Mi Agenda**
     * **Descripción**: Una aplicación web para gestionar actividades, horarios y advertencias. Este proyecto integra conceptos más avanzados como la organización de datos y la creación de una interfaz dinámica, aplicando la teoría de manipulación del DOM y diseño con **CSS Grid** explorados en ambos libros.
-    * [Ver demo en vivo](https://miagendaya.netlify.app/)
+    * [Ver la aplicación](https://miagendaya.netlify.app/)
 
