@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&st
 
 <a href="https://github.com/oqowiiiwiiwiuau-ctrl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oqowiiiwiiwiuau-ctrl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-###Mi Portafolio: Del Aprendizaje a la Creación
+### Mi Portafolio: Del Aprendizaje a la Creación
 
 Estos proyectos son la materialización de los conocimientos que he adquirido a través de dos recursos fundamentales en mi viaje como desarrollador web:
 
