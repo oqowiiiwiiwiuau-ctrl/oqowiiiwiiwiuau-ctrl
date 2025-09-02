@@ -45,4 +45,4 @@ A continuación, una lista de mis proyectos ordenados cronológicamente, refleja
 * **Calculadora**
     * [Ver la aplicación](https://app.netlify.com/projects/dynamic-quokka-8acbd0/overview)
 * **Generar Asientos Contables**
-    *[ver la aplicación](https://app.netlify.com/projects/contabilidad-basica-pro/overview) 
+    * [ver la aplicación](https://app.netlify.com/projects/contabilidad-basica-pro/overview) 
