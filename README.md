@@ -24,17 +24,25 @@ src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&st
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+# Mi Portafolio: Del Aprendizaje a la Creación
 
-# MiAgenda: Tu Gestor de Actividades
+Estos proyectos son la materialización de los conocimientos que he adquirido a través de dos recursos fundamentales en mi viaje como desarrollador web:
 
-MiAgenda es una aplicación web minimalista para organizar tus actividades, horarios y advertencias en una interfaz limpia y sencilla. Ha sido desarrollada como un proyecto de práctica usando tecnologías frontend modernas.
+* **JavaScript Eloquente**, de Marijn Haverbeke: Un libro que me ha ayudado a profundizar en la esencia del lenguaje, la manipulación del DOM y los conceptos más avanzados de la programación.
+* **JavaScript from Beginner to Professional**, de Rob Percival y otros autores: Una guía práctica y enfocada en proyectos que me ha permitido construir aplicaciones funcionales y dinámicas desde cero.
+
+A continuación, una lista de mis proyectos ordenados cronológicamente, reflejando mi evolución desde conceptos básicos hasta aplicaciones más complejas.
 
 ---
 
-### Ver el proyecto en vivo
+### Proyectos
 
-Haz clic en el siguiente enlace para explorar la aplicación en Netlify:
+* **Juego de Cronómetro** (Primer proyecto de práctica)
+    * **Descripción**: Un simple cronómetro interactivo. Fue mi primer proyecto con JavaScript, centrado en la manipulación del DOM y la lógica de temporización, habilidades clave aprendidas en **JavaScript from Beginner to Professional**.
+    * [Ver demo en vivo](https://cronometrojuego.netlify.app)
+    * [Ver código fuente](https://github.com/tu-usuario/cronometro)
 
-[Ver MiAgenda en Netlify](https://miagenda-app.netlify.app)
-
-[Ver mi proyecto Cronometro](https://cronometrojuego.netlify.app)
+* **Mi Agenda** (Último proyecto)
+    * **Descripción**: Una aplicación web para gestionar actividades, horarios y advertencias. Este proyecto integra conceptos más avanzados como la organización de datos y la creación de una interfaz dinámica, aplicando la teoría de manipulación del DOM y diseño con **CSS Grid** explorados en ambos libros.
+    * [Ver demo en vivo](https://miagenda-app.netlify.app)
+    * [Ver código fuente](https://github.com/tu-usuario/mi-agenda)
