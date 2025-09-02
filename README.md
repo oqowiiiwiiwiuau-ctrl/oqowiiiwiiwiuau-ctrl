@@ -35,5 +35,5 @@ MiAgenda es una aplicación web minimalista para organizar tus actividades, hora
 
 Haz clic en el siguiente enlace para explorar la aplicación en Netlify:
 
-[Ver MiAgenda en Netlify](https://miagenda-app.netlify.app "Haz clic para ver la demo del proyecto.")
+[Ver MiAgenda en Netlify](https://miagenda-app.netlify.app)
 
