@@ -1,4 +1,7 @@
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYWF1ZWppbzBwajZrOW5jNWVvcnVoa2NpdHZsMDRkOHZ2b3dncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Affq0pwonb2l62ztdH/giphy.gif"  width="100" height="90"/># ¡Bienvenido al repositorio de Carlos Dev!
+## ¡Bienvenido al repositorio de Carlos Dev!
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYWF1ZWppbzBwajZrOW5jNWVvcnVoa2NpdHZsMDRkOHZ2b3dncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Affq0pwonb2l62ztdH/giphy.gif" width="100" height="90"/>
+
 Este espacio está dedicado a mostrar mis proyectos de desarrollo y mi trabajo con código. ✨
 
 
