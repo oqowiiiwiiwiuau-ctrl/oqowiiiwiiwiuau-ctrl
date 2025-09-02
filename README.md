@@ -24,3 +24,16 @@ src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&st
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+# MiAgenda: Tu Gestor de Actividades
+
+MiAgenda es una aplicación web minimalista para organizar tus actividades, horarios y advertencias en una interfaz limpia y sencilla. Ha sido desarrollada como un proyecto de práctica usando tecnologías frontend modernas.
+
+---
+
+### Ver el proyecto en vivo
+
+Haz clic en el siguiente enlace para explorar la aplicación en Netlify:
+
+[Ver MiAgenda en Netlify]([https://miagenda-app.netlify.app](https://cronometrojuego.netlify.app/) "Haz clic para ver la demo del proyecto.")
+
