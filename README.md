@@ -43,6 +43,6 @@ A continuación, una lista de mis proyectos ordenados cronológicamente, refleja
 * **Mi Agenda**
     * [Ver la aplicación](https://miagendaya.netlify.app/)
 * **Calculadora**
-    * [Ver la aplicación](https://app.netlify.com/projects/dynamic-quokka-8acbd0/overview)
+    * [Ver la aplicación](https://dynamic-quokka-8acbd0.netlify.app/)
 * **Generar Asientos Contables**
-    * [ver la aplicación](https://app.netlify.com/projects/contabilidad-basica-pro/overview) 
+    * [ver la aplicación](https://contabilidad-basica-pro.netlify.app/) 
