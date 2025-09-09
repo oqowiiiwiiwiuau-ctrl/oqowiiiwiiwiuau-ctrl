@@ -36,12 +36,11 @@ A continuación, una lista de mis proyectos ordenados cronológicamente, refleja
 ---
 
 ### Proyectos
+* **Generador de Registros Contables** 
+    * [Ver la aplicación](https://contabilidad-ya.netlify.app/)
 
 * **Juego de Cronómetro** 
     * [Ver la aplicación](https://cronometrojuego.netlify.app)
-
-* **Generador de Registros Contables** 
-    * [Ver la aplicación](https://contabilidad-ya.netlify.app/)
 
 * **Mi Agenda**
     * [Ver la aplicación](https://miagendaya.netlify.app/)
