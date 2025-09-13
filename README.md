@@ -36,6 +36,9 @@ A continuación, una lista de mis proyectos ordenados cronológicamente, refleja
 ---
 
 ### Proyectos
+* **Análisis de Datos diseñado para procesar y visualizar información de los registros de Compras y Ventas (RVC)** 
+    * [Ver la aplicación](https://grafica-rcv.netlify.app/)
+
 * **Generador de Registros Contables** 
     * [Ver la aplicación](https://contabilidad-ya.netlify.app/)
 
