@@ -2,39 +2,48 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYWF1ZWppbzBwajZrOW5jNWVvcnVoa2NpdHZsMDRkOHZ2b3dncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Affq0pwonb2l62ztdH/giphy.gif" width="100" height="90"/>
 
-> Si alguien me hubiera dicho que un número tan absurdo como `2^32` podía esconder una historia fascinante... bueno, me habría reído. Hasta que me topé con *Paenza*.  
->
-> Desde entonces, dejé de buscarle “la utilidad” a las matemáticas y empecé a disfrutar el asombro.  
+> ¿Por qué estudiar informática, matemática o ciencia?  
+> Porque hay cosas que a los humanos nos tomarían horas (o días)... y un programa puede resolverlas en milisegundos.  
 >  
-> Este proyecto es un homenaje, una forma de decir *gracias* a quien me enseñó a mirar los números como si fueran cuentos que esperan ser contados.
+> O como dicen por ahí —no sé si fue Einstein, Paenza, o alguien en Twitter—:  
+> "*No veas el estudio como un peso... sino como una oportunidad para resolver problemas sin romperte la cabeza.*"
+
+Este repositorio es mi forma de compartir ese camino.  
+Soy **Carlos Dev**, y acá están todos mis proyectos: desde algoritmos que desarman los fundamentos de la informática, hasta análisis de datos en Python, interfaces web interactivas y un cronómetro que (por suerte) no se atrasa.
 
 ---
 
-## 📚 Sobre este repositorio
+### ⚡ ¿Y por qué 100 algoritmos?
 
-Este espacio es mi laboratorio.  
-Aquí comparto no solo proyectos, sino pequeños experimentos: 100 ejercicios que no buscan ser útiles (aunque lo son), sino **fundamentales**. Cada uno intenta responder una pregunta que probablemente nadie se hizo, pero que esconde el corazón de la informática.
+Porque, como decía Adrián Paenza, *todo empieza con una pregunta tonta que nadie se animó a hacer*.  
+Y a veces, programar es simplemente eso: hacerse preguntas absurdas para descubrir respuestas brillantes.
 
-- ¿Por qué `2^32` importa más que el azúcar en el café de los programadores?
-- ¿Qué tienen que ver los números imaginarios con algo que sí existe?
-- ¿Y si te dijera que toda operación compleja no es más que una suma disfrazada?
+Además, también le debo mucho a otra gran inspiración: **Grimma Clara**, con su maravillosa forma de contar ciencia y decirnos con una sonrisa:  
+> *“Que la fuerza te acompañe (pero sobre todo, que te den ganas de aprender)”*.
 
-Spoiler: no es broma. Es informática.
+---
+
+### 💼 ¿Qué vas a encontrar acá?
+
+- Proyectos grandes, chicos, feos y lindos (pero todos hechos con amor).
+- Código para manipular el DOM, analizar datos, automatizar tareas, jugar con matemáticas y hasta hacer contabilidad (¡sí, contabilidad!).
+- Un estilo de aprendizaje basado en **hacer cosas**, no solo leerlas.
+
+Aún faltan muchos proyectos por subir —sobre todo los de análisis de datos en Python—, pero si estás leyendo esto, es porque ya estamos en camino.
 
 ---
 
 ### 🛠 Tecnologías
 
 <p align="left">
-<!-- (mantenemos tus íconos tal cual estaban) -->
-<!-- ...todos los logos que pusiste... -->
+<!-- (tus íconos de tecnologías van aquí, sin cambios) -->
 </p>
 
 ---
 
 ### 🧩 Proyectos destacados
 
-> Porque si no estás un poco obsesionado con lo que hacés, ¿realmente lo estás haciendo?
+> Porque si algo te obsesiona (sanamente), usalo para crear.
 
 - **100 maneras de entender la informática (y asombrarse), con un guiño a Paenza**  
   [Ver aplicación](https://100-algoritmos.vercel.app/)
@@ -59,14 +68,12 @@ Spoiler: no es broma. Es informática.
 
 ---
 
-### 📖 Mis influencias
+### 📖 Influencias (AKA mi estantería mental)
 
-Estos proyectos nacieron de muchas horas de lectura, prueba, error, y más lectura.  
-Especialmente, de estos recursos que me ayudaron a conectar la lógica con la belleza:
-
-- **JavaScript Eloquente**, de Marijn Haverbeke
-- **JavaScript from Beginner to Professional**, de Rob Percival y otros
-- ...y por supuesto, los libros de **Adrián Paenza**, que me enseñaron que las matemáticas también pueden hacer reír.
+- **Adrián Paenza**, por demostrar que la matemática no solo puede entenderse, sino disfrutarse.
+- **Grimma Clara**, por enseñarme que el conocimiento puede ser divertido, humano y emocionante (¡y por decirme “que la fuerza te acompañe” cuando más lo necesitaba!).
+- **JavaScript Eloquente**, de Marijn Haverbeke —el libro que me abrió las puertas al DOM y la lógica real de los navegadores.
+- **JavaScript from Beginner to Professional**, de Rob Percival y otros.
 
 ---
 
@@ -97,4 +104,3 @@ Especialmente, de estos recursos que me ayudaron a conectar la lógica con la be
 <a href="https://www.github.com/oqowiiiwiiwiuau-ctrl">
   <img src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
-
