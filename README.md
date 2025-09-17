@@ -36,6 +36,9 @@ A continuación, una lista de mis proyectos ordenados cronológicamente, refleja
 ---
 
 ### Proyectos
+* **100 ejercicios para entender la informática, inspirados en Adrián Paenza** 
+    * [Ver la aplicación](https://100-algoritmos.vercel.app/)
+
 * **Análisis de Datos diseñado para procesar y visualizar información de los registros de Compras y Ventas (RVC)** 
     * [Ver la aplicación](https://grafica-rcv.netlify.app/)
     
