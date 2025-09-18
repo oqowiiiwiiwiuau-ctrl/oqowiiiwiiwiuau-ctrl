@@ -10,17 +10,17 @@ Soy **Carlos Dev**, desarrollador de software full stack con gusto por la lógic
 
 ---
 
-### ⚡ ¿Qué es esto?
+## 💡 ¿Qué es esto?
 
 Un espacio para explorar la informática desde lo práctico, lo didáctico y, por qué no, lo absurdamente útil.
 
-Creo que la mejor forma de aprender programación es haciendo cosas que realmente despierten tu curiosidad, incluso si nacen de preguntas extrañas como:
+Creo que la mejor forma de aprender programación es **haciendo cosas que realmente despierten tu curiosidad**, incluso si nacen de preguntas extrañas como:
 
 - ¿Cómo la estadística podría ayudarme a encontrar a la pareja perfecta?
-
 - ¿Cómo automatizar el análisis de datos solo subiendo un archivo de Excel (y sin llorar en el intento)?
-
 - ¿Cómo aplicar árboles de decisión en una empresa sin terminar en una reunión de tres horas?
+
+Este repositorio está lleno de código que **manipula el DOM**, **analiza datos**, **automatiza tareas**, **juega con conceptos matemáticos**, y sí... **hasta hace contabilidad (con dignidad)**.
 
 Este repositorio está lleno de código que manipula el DOM, analiza datos, automatiza tareas, juega con conceptos matemáticos, y sí... hasta hace contabilidad (con dignidad).
 
