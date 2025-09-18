@@ -22,8 +22,6 @@ Creo que la mejor forma de aprender programación es **haciendo cosas que realme
 
 Este repositorio está lleno de código que **manipula el DOM**, **analiza datos**, **automatiza tareas**, **juega con conceptos matemáticos**, y sí... **hasta hace contabilidad (con dignidad)**.
 
-Este repositorio está lleno de código que manipula el DOM, analiza datos, automatiza tareas, juega con conceptos matemáticos, y sí... hasta hace contabilidad (con dignidad).
-
 Las computadoras son excelentes para resolver problemas en cuestión de segundos.  
 Los humanos, en cambio, somos excelentes para convertir problemas simples en preguntas complejas.  
 Este repositorio es mi intento de unir esas dos naturalezas.
