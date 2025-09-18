@@ -1,79 +1,89 @@
-## 🧠 100 maneras de entender la informática (y asombrarse), con un guiño a Paenza
+## 👋 Bienvenidos al repositorio de Carlos Dev
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYWF1ZWppbzBwajZrOW5jNWVvcnVoa2NpdHZsMDRkOHZ2b3dncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Affq0pwonb2l62ztdH/giphy.gif" width="100" height="90"/>
 
-> ¿Por qué estudiar informática, matemática o ciencia?  
-> Porque hay cosas que a los humanos nos tomarían horas (o días)... y un programa puede resolverlas en milisegundos.  
->  
-> O como dicen por ahí —no sé si fue Einstein, Paenza, o alguien en Twitter—:  
-> "*No veas el estudio como un peso... sino como una oportunidad para resolver problemas sin romperte la cabeza.*"
+Soy **Carlos Dev**, desarrollador de software full stack con gusto por la lógica, la matemática aplicada y los proyectos que realmente hacen algo útil (o al menos divertido). Este repositorio recopila muchos de mis experimentos, ejercicios, miniaplicaciones, y desarrollos personales.
 
-Este repositorio es mi forma de compartir ese camino.  
-Soy **Carlos Dev**, y acá están todos mis proyectos: desde algoritmos que desarman los fundamentos de la informática, hasta análisis de datos en Python, interfaces web interactivas y un cronómetro que (por suerte) no se atrasa.
+> Según la Primera Ley de Newton, todo cuerpo tiende a seguir haciendo lo que ya estaba haciendo...  
+> Así que si estás programando, probablemente seguirás programando. Y si estás procrastinando, bueno...  
+> ¡Bienvenido al ciclo infinito del desarrollador!
 
 ---
 
-### ⚡ ¿Y por qué 100 algoritmos?
+### ⚡ ¿Qué es esto?
 
-Porque, como decía Adrián Paenza, *todo empieza con una pregunta tonta que nadie se animó a hacer*.  
-Y a veces, programar es simplemente eso: hacerse preguntas absurdas para descubrir respuestas brillantes.
+Un espacio para explorar la informática desde lo práctico, lo didáctico y, por qué no, lo absurdo.  
+Creo que la mejor forma de aprender programación es haciendo cosas que realmente te despierten curiosidad, aunque empiecen con preguntas como:
 
-Además, también le debo mucho a otra gran inspiración: **Grimma Clara**, con su maravillosa forma de contar ciencia y decirnos con una sonrisa:  
-> *“Que la fuerza te acompañe (pero sobre todo, que te den ganas de aprender)”*.
+- ¿Cómo la estadística podría ayudarme a encontrar a la pareja perfecta?
+- ¿Qué pasa si creo un generador de asientos contables que no me aburra?
+- Código para manipular el DOM, analizar datos, automatizar tareas, jugar con matemáticas y hasta hacer contabilidad (¡sí, contabilidad!).
+
+Las computadoras son excelentes para resolver problemas en cuestión de segundos.  
+Los humanos, en cambio, somos excelentes para convertir problemas simples en preguntas complejas.  
+Este repositorio es mi intento de unir esas dos naturalezas.
+
+---
+
+### 🧑‍💻 Sobre mí
+
+- 💻 Desarrollador de software con experiencia en **JavaScript, Python, HTML/CSS, Git y frameworks modernos**.
+- 📊 Interesado en automatización, análisis de datos, herramientas web y todo lo que convierta una idea en código funcional.
+- 🧠 Defensor del aprendizaje práctico, curioso por naturaleza y fan del humor técnico.
+- 😺 50% código, 50% referencias a física, matemáticas, Paenza y gatitos.
 
 ---
 
 ### 💼 ¿Qué vas a encontrar acá?
 
-- Proyectos grandes, chicos, feos y lindos (pero todos hechos con amor).
-- Código para manipular el DOM, analizar datos, automatizar tareas, jugar con matemáticas y hasta hacer contabilidad (¡sí, contabilidad!).
-- Un estilo de aprendizaje basado en **hacer cosas**, no solo leerlas.
+- Proyectos prácticos, curiosos, didácticos o simplemente extraños.
+- Aplicaciones web (con y sin frameworks).
+- Herramientas para contabilidad, análisis de datos, visualización o automatización.
+- Muchos ejercicios que parecen simples... pero tienen una intención de fondo: aprender haciendo.
 
-Aún faltan muchos proyectos por subir —sobre todo los de análisis de datos en Python—, pero si estás leyendo esto, es porque ya estamos en camino.
+---
+
+### 🌟 Proyectos destacados
+
+> Porque si algo te obsesiona (sanamente), usalo para crear.
+
+- **🔢 100 maneras de entender la informática**  
+  [Ver aplicación](https://100-algoritmos.vercel.app/)
+
+- **📈 Análisis de Datos RVC (Compras y Ventas)**  
+  [Ver aplicación](https://grafica-rcv.netlify.app/)
+
+- **💼 Generador de Registros Contables**  
+  [Ver aplicación](https://contabilidad-ya.netlify.app/)
+
+- **⏱ Juego de Cronómetro**  
+  [Ver aplicación](https://cronometrojuego.netlify.app)
+
+- **🗓 Mi Agenda**  
+  [Ver aplicación](https://miagendaya.netlify.app/)
+
+- **🧮 Calculadora**  
+  [Ver aplicación](https://dynamic-quokka-8acbd0.netlify.app/)
+
+- **📘 Generador de Asientos Contables**  
+  [Ver aplicación](https://contabilidad-basica-pro.netlify.app/)
+
+---
+
+### 📚 Influencias y fuentes de inspiración
+
+- **Adrián Paenza**, por hacer de la matemática algo humano.
+- **Grimma Clara**, por enseñar ciencia como si fuese una historia.
+- **JavaScript Eloquente**, de Marijn Haverbeke —mi guía para amar el DOM.
+- **JavaScript from Beginner to Professional**, por recordarme que lo básico bien hecho vale más que mil librerías.
 
 ---
 
 ### 🛠 Tecnologías
 
 <p align="left">
-<!-- (tus íconos de tecnologías van aquí, sin cambios) -->
+  <!-- Tus íconos de tecnologías van aquí -->
 </p>
-
----
-
-### 🧩 Proyectos destacados
-
-> Porque si algo te obsesiona (sanamente), usalo para crear.
-
-- **100 maneras de entender la informática (y asombrarse), con un guiño a Paenza**  
-  [Ver aplicación](https://100-algoritmos.vercel.app/)
-
-- **Análisis de Datos RVC (Compras y Ventas)**  
-  [Ver aplicación](https://grafica-rcv.netlify.app/)
-
-- **Generador de Registros Contables**  
-  [Ver aplicación](https://contabilidad-ya.netlify.app/)
-
-- **Juego de Cronómetro**  
-  [Ver aplicación](https://cronometrojuego.netlify.app)
-
-- **Mi Agenda**  
-  [Ver aplicación](https://miagendaya.netlify.app/)
-
-- **Calculadora**  
-  [Ver aplicación](https://dynamic-quokka-8acbd0.netlify.app/)
-
-- **Generador de Asientos Contables**  
-  [Ver aplicación](https://contabilidad-basica-pro.netlify.app/)
-
----
-
-### 📖 Influencias (AKA mi estantería mental)
-
-- **Adrián Paenza**, por demostrar que la matemática no solo puede entenderse, sino disfrutarse.
-- **Grimma Clara**, por enseñarme que el conocimiento puede ser divertido, humano y emocionante (¡y por decirme “que la fuerza te acompañe” cuando más lo necesitaba!).
-- **JavaScript Eloquente**, de Marijn Haverbeke —el libro que me abrió las puertas al DOM y la lógica real de los navegadores.
-- **JavaScript from Beginner to Professional**, de Rob Percival y otros.
 
 ---
 
@@ -104,3 +114,4 @@ Aún faltan muchos proyectos por subir —sobre todo los de análisis de datos e
 <a href="https://www.github.com/oqowiiiwiiwiuau-ctrl">
   <img src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
+
