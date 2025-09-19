@@ -49,7 +49,12 @@ Este repositorio es mi intento de unir esas dos naturalezas.
 ### 🌟 Proyectos destacados
 
 > Porque si algo te obsesiona (sanamente), usalo para crear.
-
+- **🔢 Juego piedra papel tijera, un juego que te deja ganar no como tu crush**  
+  [Ver aplicación](https://piedra-papel-tijera-one-flame.vercel.app/)
+  
+- **🔢 Juego de Adinina el número que estoy pensando jajaja**  
+  [Ver aplicación](https://juego-adininanza.netlify.app/)
+  
 - **🔢 100 maneras de entender la informática**  
   [Ver aplicación](https://100-algoritmos.vercel.app/)
 
