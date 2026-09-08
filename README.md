@@ -2,8 +2,6 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYWF1ZWppbzBwajZrOW5jNWVvcnVoa2NpdHZsMDRkOHZ2b3dncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Affq0pwonb2l62ztdH/giphy.gif" width="100" height="90"/>
 
-Soy **Carlos Dev**, desarrollador de software full stack con gusto por la lógica, la matemática aplicada y los proyectos que realmente hacen algo útil (o al menos divertido). Este repositorio recopila muchos de mis experimentos, ejercicios, miniaplicaciones, y desarrollos personales.
-
 > Según la Primera Ley de Newton, todo cuerpo tiende a seguir haciendo lo que ya estaba haciendo...  
 > Así que si estás programando, probablemente seguirás programando. Y si estás procrastinando, bueno...  
 > ¡Bienvenido al ciclo infinito del desarrollador!
@@ -21,12 +19,8 @@ Creo que la mejor forma de aprender programación es **haciendo cosas que realme
 
 Este repositorio está lleno de código que **manipula el DOM**, **analiza datos**, **automatiza tareas**, **juega con conceptos matemáticos**, y sí... **hasta hace contabilidad (con dignidad)**.
 
-Las computadoras son excelentes para resolver problemas en cuestión de segundos.  
-Los humanos, en cambio, somos excelentes para convertir problemas simples en preguntas complejas.  
-Este repositorio es mi intento de unir esas dos naturalezas.
-
 ---
-### 💼 ¿Qué vas a encontrar acá?
+### 💼 ¿Qué vas a encontras?
 
 - Proyectos prácticos, curiosos, didácticos o simplemente extraños.
 - Aplicaciones web (con y sin frameworks).
