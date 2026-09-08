@@ -1,125 +1,86 @@
-## 👋 Bienvenidos al repositorio de Carlos Dev
+👋 Bienvenidos al repositorio de Carlos Dev
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYWF1ZWppbzBwajZrOW5jNWVvcnVoa2NpdHZsMDRkOHZ2b3dncCZlcD12MV9pbnRlcm5hbGJfZ2lmX2J5X2lkJmN0PXM/Affq0pwonb2l62ztdH/giphy.gif" width="100" height="90"/>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYWF1ZWppbzBwajZrOW5jNWVvcnVoa2NpdHZsMDRkOHZ2b3dncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Affq0pwonb2l62ztdH/giphy.gif" width="100" height="90"/>
+Soy Carlos Dev, desarrollador de software y aprendiz permanente.
 
-Soy **Carlos Dev**, desarrollador de software full stack con gusto por la lógica, la matemática aplicada y los proyectos que realmente hacen algo útil (o al menos divertido). Este repositorio recopila muchos de mis experimentos, ejercicios, miniaplicaciones, y desarrollos personales.
+Me gusta construir cosas, entender cómo funcionan y convertir ideas —a veces útiles, a veces completamente innecesarias— en código.
 
-> Según la Primera Ley de Newton, todo cuerpo tiende a seguir haciendo lo que ya estaba haciendo...  
-> Así que si estás programando, probablemente seguirás programando. Y si estás procrastinando, bueno...  
-> ¡Bienvenido al ciclo infinito del desarrollador!
+Este repositorio es una pequeña colección de mis proyectos, experimentos y aprendizajes.
 
----
+La ciencia ficción siempre me ha gustado porque imagina mundos que todavía no existen.
 
-## 💡 ¿Qué es esto?
+La programación tiene algo parecido: primero imaginas algo y después intentas construirlo.
 
-Un espacio para explorar la informática desde lo práctico, lo didáctico y, por qué no, lo absurdamente útil.
+🚀 Mis proyectos
 
-Creo que la mejor forma de aprender programación es **haciendo cosas que realmente despierten tu curiosidad**, incluso si nacen de preguntas extrañas como:
+Algunos de mis proyectos y experimentos:
 
-- ¿Cómo la estadística podría ayudarme a encontrar a la pareja perfecta?
-- ¿Cómo automatizar el análisis de datos solo subiendo un archivo de Excel (y sin llorar en el intento)?
-- ¿Cómo aplicar árboles de decisión en una empresa sin terminar en una reunión de tres horas?
+🎮 Piedra, Papel o Tijera
+Ver aplicación
 
-Este repositorio está lleno de código que **manipula el DOM**, **analiza datos**, **automatiza tareas**, **juega con conceptos matemáticos**, y sí... **hasta hace contabilidad (con dignidad)**.
+🔢 Adivina el número
+Ver aplicación
 
-Las computadoras son excelentes para resolver problemas en cuestión de segundos.  
-Los humanos, en cambio, somos excelentes para convertir problemas simples en preguntas complejas.  
-Este repositorio es mi intento de unir esas dos naturalezas.
+🧠 100 maneras de entender la informática
+Ver aplicación
 
----
+📊 Análisis de Datos RVC — Compras y Ventas
+Ver aplicación
 
-### 🧑‍💻 Sobre mí
+💼 Generador de Registros Contables
+Ver aplicación
 
-- 💻 Desarrollador de software con experiencia en **JavaScript, Python, HTML/CSS, Git y frameworks modernos**.
-- 📊 Interesado en automatización, análisis de datos, herramientas web y todo lo que convierta una idea en código funcional.
-- 🧠 Defensor del aprendizaje práctico, curioso por naturaleza y fan del humor técnico.
-- 😺 50% código, 50% referencias a física, matemáticas, Paenza y gatitos.
+⏱️ Juego de Cronómetro
+Ver aplicación
 
----
+🗓️ Mi Agenda
+Ver aplicación
 
-### 💼 ¿Qué vas a encontrar acá?
+🧮 Calculadora
+Ver aplicación
 
-- Proyectos prácticos, curiosos, didácticos o simplemente extraños.
-- Aplicaciones web (con y sin frameworks).
-- Herramientas para contabilidad, análisis de datos, visualización o automatización.
-- Muchos ejercicios que parecen simples... pero tienen una intención de fondo: aprender haciendo.
+📘 Generador de Asientos Contables
+Ver aplicación
 
----
+🧑‍💻 Lo que me interesa
+Desarrollo web
+JavaScript y Python
+Automatización
+Análisis de datos
+Matemáticas aplicadas
+Inteligencia artificial
+Contabilidad y sistemas empresariales
+Resolver problemas con software
+Aprender construyendo
+📚 Cosas que me inspiran
 
-### 🌟 Proyectos destacados
+Hay una mezcla bastante extraña detrás de lo que programo.
 
-> Porque si algo te obsesiona (sanamente), usalo para crear.
-- **🎆 Juego piedra papel tijera, un juego que te deja ganar no como tu crush**  
-  [Ver aplicación](https://piedra-papel-tijera-one-flame.vercel.app/)
-  
-- **🔢 Juego de Adinina el número que estoy pensando jajaja**  
-  [Ver aplicación](https://juego-adininanza.netlify.app/)
-  
-- **🔢 100 maneras de entender la informática**  
-  [Ver aplicación](https://100-algoritmos.vercel.app/)
+Me gustan los libros que hacen pensar en sistemas, ciencia, matemáticas, sociedad y futuro.
 
-- **📈 Análisis de Datos RVC (Compras y Ventas)**  
-  [Ver aplicación](https://grafica-rcv.netlify.app/)
+Entre mis influencias están:
 
-- **💼 Generador de Registros Contables**  
-  [Ver aplicación](https://contabilidad-ya.netlify.app/)
+📖 Isaac Asimov — especialmente Fundación.
+🌌 Dan Simmons — Hyperion.
+🧠 Adrián Paenza — matemáticas explicadas de una manera que dan ganas de seguir preguntando.
+📘 JavaScript Eloquente, de Marijn Haverbeke.
+💻 Libros y recursos que enseñan programación desde los fundamentos.
 
-- **⏱ Juego de Cronómetro**  
-  [Ver aplicación](https://cronometrojuego.netlify.app)
+Supongo que existe una conexión entre leer sobre civilizaciones que abarcan miles de años y pasar tres horas intentando descubrir por qué un div no está donde debería. 😂
 
-- **🗓 Mi Agenda**  
-  [Ver aplicación](https://miagendaya.netlify.app/)
+🛠️ Tecnologías
+<p align="left"> JavaScript · Python · HTML · CSS · React · Git · GitHub · Supabase </p>
+📊 GitHub
+<a href="https://github.com/oqowiiiwiiwiuau-ctrl"> <img src="https://github-readme-stats.vercel.app/api?username=oqowiiiwiiwiuau-ctrl&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" /> </a> <a href="https://github.com/oqowiiiwiiwiuau-ctrl"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=oqowiiiwiiwiuau-ctrl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </a> <a href="https://github.com/oqowiiiwiiwiuau-ctrl"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oqowiiiwiiwiuau-ctrl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /> </a>
+🌐 GitHub
 
-- **🧮 Calculadora**  
-  [Ver aplicación](https://dynamic-quokka-8acbd0.netlify.app/)
+Si quieres ver mis proyectos, código y experimentos:
 
-- **📘 Generador de Asientos Contables**  
-  [Ver aplicación](https://contabilidad-basica-pro.netlify.app/)
+<a href="https://github.com/oqowiiiwiiwiuau-ctrl"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </a> <a href="https://github.com/oqowiiiwiiwiuau-ctrl"> <img src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+🧠 En construcción...
 
----
+Este repositorio también lo está.
 
-### 📚 Influencias y fuentes de inspiración
+Nuevos proyectos, nuevas ideas, nuevos errores y probablemente algunos bugs que terminarán convirtiéndose en funcionalidades.
 
-- **Adrián Paenza**, por hacer de la matemática algo humano.
-- **Grimma Clara**, por enseñar ciencia como si fuese una historia.
-- **JavaScript Eloquente**, de Marijn Haverbeke —mi guía para amar el DOM.
-- **JavaScript from Beginner to Professional**, por recordarme que lo básico bien hecho vale más que mil librerías.
-
----
-
-### 🛠 Tecnologías
-
-<p align="left">
-  <!-- Tus íconos de tecnologías van aquí -->
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<a href="http://www.github.com/oqowiiiwiiwiuau-ctrl">
-  <img src="https://github-readme-stats.vercel.app/api?username=oqowiiiwiiwiuau-ctrl&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-</a>
-
-<a href="http://www.github.com/oqowiiiwiiwiuau-ctrl">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oqowiiiwiiwiuau-ctrl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/oqowiiiwiiwiuau-ctrl">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oqowiiiwiiwiuau-ctrl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
----
-
-### 🌐 Redes
-
-<p align="left">
-  <a href="https://www.github.com/oqowiiiwiiwiuau-ctrl" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-  </a>
-</p>
-
-<a href="https://www.github.com/oqowiiiwiiwiuau-ctrl">
-  <img src="https://img.shields.io/github/followers/oqowiiiwiiwiuau-ctrl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
+La idea es seguir construyendo.
