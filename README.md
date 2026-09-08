@@ -35,7 +35,7 @@ Este repositorio es mi intento de unir esas dos naturalezas.
 
 ---
 
-### 🌟 Proyectos destacados
+### 🌟 Proyectos 
 
 > Porque si algo te obsesiona (sanamente), usalo para crear.
 - **📈 Análisis de Datos RVC (Compras y Ventas)**  
@@ -47,7 +47,7 @@ Este repositorio es mi intento de unir esas dos naturalezas.
 - **🔢 Páginas web mas usadas**  
   [Ver aplicación](https://webvisitadas.netlify.app/)
 
-  - **🔢 Repositorios de Git usadas**  
+- **🔢 Repositorios de Git usadas**  
   [Ver aplicación](https://repositorios-git.vercel.app/)
 
 - **🎆 Juego piedra papel tijera, un juego que te deja ganar no como tu crush**  
