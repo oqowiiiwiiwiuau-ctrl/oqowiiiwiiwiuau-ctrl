@@ -38,11 +38,17 @@ Este repositorio está lleno de código que **manipula el DOM**, **analiza datos
 - **⚡ Sistema Contable (Una copia descarada de los programas de contabilidad, pero esta esta en la nube jajaja)**  
   [Ver aplicación](https://contabilidad-seven-eta.vercel.app/)
 
-- **🌟 Tabla Notion para control de pago de impuesto de los clientes**  
+- **🌟 Notion tabla para control de pago de impuesto de los clientes**  
   [Ver aplicación](https://app.notion.com/p/36830dd0fbd94115a50c6d2d3e71c331?v=5aaf992d3c3740c28895f2bffdf204ca&source=copy_link)
 
 - **🌈 Páginas web mas usadas**  
   [Ver aplicación](https://webvisitadas.netlify.app/)
+
+- **📚 Biblioteca de programación, libros (Notion)**  
+  [Ver aplicación](https://app.notion.com/p/643871d9c8c9488b9d089eabe282453a?v=cef236c7ab834fc7843d5ed51de616d1&source=copy_link)
+
+- **♡ Apuntes de java (Notion)**  
+  [Ver aplicación](https://app.notion.com/p/Java-Colecciones-POO-Sznajdleder-38920d5f5de3819b8f82f406d59e778d?source=copy_link)
 
 - **🔥 Repositorios de Git usadas**  
   [Ver aplicación](https://repositorios-git.vercel.app/)
