@@ -35,22 +35,25 @@ Este repositorio está lleno de código que **manipula el DOM**, **analiza datos
 - **📈 Análisis de Datos RVC (Compras y Ventas)**  
   [Ver aplicación](https://grafica-rcv.netlify.app/)
 
-- **📈 Sistema Contable (Una copia descarada de los programas de contabilidad, pero esta esta en la nube jajaja)**  
+- **⚡ Sistema Contable (Una copia descarada de los programas de contabilidad, pero esta esta en la nube jajaja)**  
   [Ver aplicación](https://contabilidad-seven-eta.vercel.app/)
 
-- **🔢 Páginas web mas usadas**  
+- **🌟 Tabla Notion para control de pago de impuesto de los clientes**  
+  [Ver aplicación](https://app.notion.com/p/36830dd0fbd94115a50c6d2d3e71c331?v=5aaf992d3c3740c28895f2bffdf204ca&source=copy_link)
+
+- **🌈 Páginas web mas usadas**  
   [Ver aplicación](https://webvisitadas.netlify.app/)
 
-- **🔢 Repositorios de Git usadas**  
+- **🔥 Repositorios de Git usadas**  
   [Ver aplicación](https://repositorios-git.vercel.app/)
 
 - **🎆 Juego piedra papel tijera, un juego que te deja ganar no como tu crush**  
   [Ver aplicación](https://piedra-papel-tijera-one-flame.vercel.app/)
   
-- **🔢 Juego de Adinina el número que estoy pensando jajaja**  
+- **🚀 Juego de Adinina el número que estoy pensando jajaja**  
   [Ver aplicación](https://juego-adininanza.netlify.app/)
   
-- **🔢 100 maneras de entender la informática**  
+- **🦋 100 maneras de entender la informática**  
   [Ver aplicación](https://100-algoritmos.vercel.app/)
 
 - **💼 Generador de Registros Contables**  
